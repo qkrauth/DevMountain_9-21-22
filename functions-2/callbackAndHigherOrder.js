@@ -152,6 +152,9 @@ uniq(names, uniqArr => {
 */
 
 // CODE HERE 
+function each(array, callback) {
+  
+}
 
 
 /*
